@@ -1,5 +1,5 @@
 <h3 align="center">
-👋🏻 Hi! 𝖬𝗒 𝗇𝖺𝗆𝖾 𝖨𝗌 Bonkwan
+안녕하세요. 구본관입니다.
 </h3>
 <h2 align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rnqhscjf3333">
