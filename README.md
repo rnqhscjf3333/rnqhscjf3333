@@ -32,7 +32,6 @@
 <div>
     <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gitlab-FC6D26.svg?&style=flat&logo=gitlab&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Perforce-404040.svg?&style=flat&logo=perforce&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=jirasoftware&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mattermost-0058CC.svg?&style=flat&logo=mattermost&logoColor=white"/>
 </div>
