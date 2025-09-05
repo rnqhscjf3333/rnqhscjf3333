@@ -12,7 +12,6 @@
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093.svg?&style=flat&logo=styledcomponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?&style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS Modules-000000.svg?&style=flat&logo=cssmodules&logoColor=white"/>
 </div>
